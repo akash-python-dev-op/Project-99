@@ -3,7 +3,7 @@ import shutil
 import time
 
 path = 'D:\Others\Pro-C99\removeFiles.py'
-days = 10
+seconds = 864000
 
 desiredTime = time.time(days)
 os.path.exists.path(path)
